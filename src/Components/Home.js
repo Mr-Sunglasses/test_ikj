@@ -29,13 +29,13 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-          My name is Ishika Jaggi, persuing BTech in Computer Science and  Engineering at KIET Group of Institutions.
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
-            I am fluent in <b>UI/UX</b> and know <b>Figma</b> and am working on a few 
-            projects in the <b>React</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Java</b> and<b> Rust</b> in the near future. <br /><br />
-            Also, I love <b>Dance 💃🏻</b>   
+          Hi, I’m Ishika Jaggi, a passionate and driven Computer Science graduate from KIET Group of Institutions. I have recently completed my B.Tech in Computer Science and Engineering, and I bring a unique blend of technical expertise and leadership experience.
+
+I possess strong technical skills in Java and Python programming, SQL, Web Development, and Object-Oriented Programming. During my internship at JSpiders Training and Development Center, I had the opportunity to work on a live project – Bucksmedia.in, a marketing agency website where I contributed to front-end development and functionality integration.
+
+One of my key projects includes developing a blogging platform, which enables users to create, edit, and manage blog posts with real-time content editing features and secure authentication.
+
+Alongside academics, I have actively participated in co-curricular activities. I serve as the Vice President of Phoenix Dance Crew, the official dance society of KIET, and have been an integral part of various technical clubs. My leadership and collaboration skills have been honed through these roles.
           </p>
         </div>
         <Tilt>
