@@ -11,12 +11,7 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-          My name is Ishika Jaggi, persuing BTech in Computer Science and  Engineering at KIET Group of Institutions.
-I have done my schooling from Silver Line Prestige School and scored 90.6 % in my 10th and 91.4% in 12th board examination.
- Besides studying, I love dancing and drawing, and I've won a bunch of awards for both. I also enjoy playing badminton and listening music.
-My skills include having knowledge in HTML, CSS, Javascript, made few projects on it and Data structures and algorithms using Java language and now I m learning react.
-I've worked on various projects but the favourite one was "Kisaan Sahayak" - A smart farming method to detect disease in crops/ plants.
-My strength is that I can be a good team leader .Back in school, I was the Head Girl, which taught me a lot about leading and working with others.
+          Hi, I’m Ishika Jaggi, a passionate and driven Computer Science graduate from KIET Group of Institutions. I have recently completed my B.Tech in Computer Science and Engineering, and I bring a unique blend of technical expertise and leadership experience. I possess strong technical skills in Java and Python programming, SQL, Web Development, and Object-Oriented Programming. During my internship at JSpiders Training and Development Center, I had the opportunity to work on a live project – Bucksmedia.in, a marketing agency website where I contributed to front-end development and functionality integration. One of my key projects includes developing a blogging platform, which enables users to create, edit, and manage blog posts with real-time content editing features and secure authentication. Alongside academics, I have actively participated in co-curricular activities. I serve as the Vice President of Phoenix Dance Crew, the official dance society of KIET, and have been an integral part of various technical clubs. My leadership and collaboration skills have been honed through these roles.
           </p>
         </div>
 
